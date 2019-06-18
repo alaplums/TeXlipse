@@ -1,4 +1,4 @@
-# Accessible latex based authoring and presentation for persons with vision impairment (ALAP - Editor)
+# Accessible LaTex based Authoring and Presentation for Persons with Vision Impairment (ALAP - *editor*)
 ALAP is an accessible extension of the TeXlipse plugin for Eclipse, which provides support for LaTeX projects. It makes LaTeX based documents accessible to individuals with vision impairments through various features. Below is the list of main features offered:
 
 * Editor Accessibility
@@ -24,6 +24,5 @@ Please have a look at our [contribution guide](https://github.com/alaplums/TeXli
 
 # Resources
 * [Official ALAP Website](https://alap.lums.edu.pk/ "ALAP")
-
-### User Guide
-[Detailed User Guide](https://alap.lums.edu.pk/wp-content/uploads/2018/11/ALAP_UserGuide.pdf)
+* ### Extensive User Guide
+    * [Detailed User Guide](https://alap.lums.edu.pk/wp-content/uploads/2018/11/ALAP_UserGuide.pdf)
