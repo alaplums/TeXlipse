@@ -24,5 +24,4 @@ Please have a look at our [contribution guide](https://github.com/alaplums/TeXli
 
 # Resources
 * [Official ALAP Website](https://alap.lums.edu.pk/ "ALAP")
-* ### Extensive User Guide
-    * [Detailed User Guide](https://alap.lums.edu.pk/wp-content/uploads/2018/11/ALAP_UserGuide.pdf)
+* [Detailed User Guide](https://alap.lums.edu.pk/wp-content/uploads/2018/11/ALAP_UserGuide.pdf "ALAP User Guide")
