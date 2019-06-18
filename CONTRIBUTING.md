@@ -25,12 +25,12 @@ Use Eclipse to check out the repo.
 3. Open **Window > Show View > Other > Git > Git Repositories**
 4. Click on **Clone a Git repository**
 5. Click on **Clone URI**, then **Next**
-6. Enter the URI ``hhttps://github.com/alaplums/TeXlipse/``
+6. Enter the URI ``https://github.com/alaplums/TeXlipse/``
 7. In the Branch Selection window, keep the default of the Master branch and click Next.
 8. In the Local Destination window, select **Finish**.
 
 ### Create an Issue
-Create a [GitHub Issue](https://github.com/alaplums/TeXlipse/issues) for every significant piece of work ( > 2 hrs).
+Create a [GitHub Issue](https://github.com/alaplums/TeXlipse/) for every significant piece of work ( > 2 hrs).
 
 ### Create a new branch for your changes
 
@@ -53,7 +53,7 @@ Branch name should be {GitHubUserName}/{summary or issue id} e.g. ``erwin/integr
 
 ## Submitting the changes
 
-1. Submit a pull request via the normal [GitHub UI](https://github.com/alaplums/TeXlipse/issues) to trigger to request feedback / code review / ... 
+1. Submit a pull request via the normal [GitHub UI](https://github.com/alaplums/TeXlipse/) to trigger to request feedback / code review / ... 
 2. Mention issue_id in each comment using syntax like "Adapt this interface for #15" to link to issue 15 in the initial comment for a Pull Request.
 3. The pull request will be reviewed by one of the committers, and then merged into master.
  
