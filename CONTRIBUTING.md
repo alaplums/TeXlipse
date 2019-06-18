@@ -14,7 +14,7 @@ You do this by adding the `-s` flag when you make the commit(s), e.g.
 
 ### Setting up a ALAP development environment
 
-We are using Eclipse Neon as development IDE and using the latest Oxygen release as TeXlipse target platform.
+We are using Eclipse Neon as development IDE and using the 4.6 release as ALAP target platform.
 
 #### Manual setup
 
