@@ -48,7 +48,7 @@ Branch name should be {GitHubUserName}/{summary or issue id} e.g. ``erwin/integr
 * Make sure you use the sign off your commit.
   * If you are commiting using Eclipse, then click on the signature button  
   * If you are invoking git from the command line, then use the `-s` flag.  
-  * If you are using some other tool, add ``Signed-off-by: YourFirstName YourLastName <YourEclipseAccountEmailAddress>`` For example: ``Signed-off-by: Christopher Brooks <cxh@eecs.berkeley.edu>``
+  * If you are using some other tool, add ``Signed-off-by: YourFirstName YourLastName`` For example: ``Signed-off-by: Christopher Brooks``
 * Push your changes to your branch in your forked repository.
 
 ## Submitting the changes
