@@ -13,7 +13,7 @@ ALAP is an accessible extension of the TeXlipse plugin for Eclipse, which provid
 The "editor" core of ALAP is similar to TeXlipse with enhancments and implementation of accessibility features. Against all user actions/input, appropriate auditory feedback is extracted and then passed on to the TTS (text to speech engine) for narration.
 
 # History
-ALAP version 1.0 is brought to you by the ALAP-team as a research project developed in the KADE Lab at Lahore University of Management Sciences. The ALAP-team includes : Ahtsham Manzoor, Safa Arooj, Shaban Zulfiqar, Omer Hayat, Dr. Suleman Shahid, Dr. Asim Karim.
+ALAP version 1.0 is brought to you by the ALAP-team as a research project developed in the KADE Lab at Lahore University of Management Sciences. The ALAP-team includes : Ahtsham Manzoor, Safa Arooj, Shaban Zulfiqar, Omer Hayat, Dr. Suleman Shahid and Dr. Asim Karim.
 
 # Technical Details
 TeXlipse version 1.5.0 is extended and this program is built using Java 1.7 and Eclipse Neon(4.6). 
